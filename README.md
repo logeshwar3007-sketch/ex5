@@ -116,7 +116,8 @@ urlpatterns = [
 
 
 ## HOMEPAGE:
-<img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/69b72c3b-dab7-42f6-bdd2-bc1fc6390a54" />
+<img width="1869" height="840" alt="529930075-69b72c3b-dab7-42f6-bdd2-bc1fc6390a54" src="https://github.com/user-attachments/assets/7289ef7b-5acc-4024-b1b4-df95550ba08c" />
+
 
 
 ## RESULT:
